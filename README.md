@@ -28,7 +28,7 @@ O fluxo realiza as seguintes etapas:
 
 ## 📸 Capturas de Tela
 
-As imagens do fluxo de execução e da configuração dos estados estão disponíveis na pasta `/images`.
+As imagens do fluxo de execução e da configuração dos estados estão disponíveis na pasta `images`.
 
 ## 📈 Resultados
 
@@ -43,7 +43,7 @@ Durante a execução, o fluxo foi capaz de:
 - Como utilizar o Map State para paralelizar tarefas.
 - Integração direta com serviços AWS via SDK.
 - Tratamento de paginação em listagens de objetos S3.
-- Boas práticas de documentação técnica com GitHub.
+
 
 
 
